@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549707073 source:e:\workplace\workplace-cpp\b1020\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+

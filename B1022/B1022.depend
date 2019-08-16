@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549770325 source:e:\workplace\workplace-cpp\b1022\main.cpp
+	<iostream>
+	<stack>
+
